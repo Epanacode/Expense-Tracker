@@ -1,4 +1,4 @@
-                                                 **💰 Expense Tracker CLI (Python)**
+                                          **💰 Expense Tracker CLI (Python)**
 
 A simple command-line expense tracker built with Python.
 You can easily add, view, delete, and calculate total expenses, all stored locally in a JSON file<
