@@ -65,7 +65,9 @@ Each expense record contains:
 <hr/>
 
  💻Author:
+ 
  **Epanacode**
+ 
 *Python Developer | Django & Telegram Bot Enthusiast*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Epanacode)
